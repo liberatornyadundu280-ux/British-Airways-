@@ -1,0 +1,17 @@
+﻿# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local build tooling and generated inspection artifacts
+.build_workbook/
+*.inspect.ndjson
+
+# Generated previews
+lookup_preview.png
+justification_preview.png
+
+# Windows metadata
+desktop.ini
+
